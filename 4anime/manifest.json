@@ -2,7 +2,7 @@
     "id": "fouranimegg",
     "name": "4Anime.gg",
     "description": "4anime.gg as an online streaming provider, with subs and dubs support and blazing fast streaming.",
-    "manifestURI": "",
+    "manifestURI": "https://raw.githubusercontent.com/KoDevV2/online-streaming-providers/refs/heads/main/4anime/manifest.json",
     "version": "1.0.0",
     "author": "KoDevV2",
     "type": "onlinestream-provider",
